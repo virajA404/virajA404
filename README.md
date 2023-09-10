@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @virajA404
-- 👀 I’m interested in Front-End web developing and UX/UI designing. 
-- 🌱 I’m currently learning HTML, CSS, Java Script, Python
+- 👀 I’m interested in Front-End web development and UX/UI designing. 
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
