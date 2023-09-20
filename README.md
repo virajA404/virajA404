@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @virajA404
-- 👀 I’m interested in Front-End web development and UX/UI designing. 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python
+- 👀 I’m interested in Full-Stack Web Development and UX/UI designing. 
+- 🌱 I’m currently learning MERN stack and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
