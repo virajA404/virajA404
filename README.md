@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @virajA404
 - 👀 I’m interested in Full-Stack Web Development and UX/UI designing. 
 - 🌱 I’m currently learning MERN stack and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: abeywardana21@gmail.com
 
 <!---
 virajA404/virajA404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
