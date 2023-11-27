@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="center">A passionate software Engineer from Sri Lanka</h3>
+<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
 ###
 
