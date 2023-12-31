@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk  />
+  <img height="150" src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47grdbgqx1askitrqy4h9085wq9c96fwf80yc0061f&ep=v1_gifs_search&rid=giphy.gif&ct=g"  frameBorder="0">
 </div>
 
 ###
