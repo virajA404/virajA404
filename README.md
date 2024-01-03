@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning MERN Stack<br><br>👨‍💻 All of my projects are available at https://viraj-abeywardana-portfolio.pages.dev/<br><br>💬 Ask me about Javascript<br><br>📫 How to reach me: abeywardana21@gmail.com<br><br>📄 Know about my experiences https://shorturl.at/kswK6</p>
+<p align="left">🌱 I’m currently learning MERN Stack<br><br>👨‍💻 All of my projects are available at: <span><a href="https://viraj-abeywardana-portfolio.pages.dev">My Portfolio</a></span><br><br>💬 Ask me about Javascript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  /><br><br>📫 How to reach me: abeywardana21@gmail.com<br><br>📄 Know about my experiences: <span><a href="https://viraj-abeywardana-portfolio.pages.dev/Viraj%20Abeywardan%20-%20Resume.pdf">My Resume</a></span></p>
 
 ###
 
